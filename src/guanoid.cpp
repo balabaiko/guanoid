@@ -3,10 +3,10 @@
 * All rights reserved.
 *
 * This software is the confidential and proprietary information
-* of Samsung Electronics, Inc. ("Confidential Information").  You
+* of Petrovich $ Ko. ("Confidential Information").  You
 * shall not disclose such Confidential Information and shall use
 * it only in accordance with the terms of the license agreement
-* you entered into with Samsung Electronics.
+* you entered into with Petrovich $ Ko.
 */
 
 /*
@@ -14,7 +14,7 @@
 *
 *   @brief:     agregates utillity static methods
 *
-*   @author:    Melnychuk Nikolya
+*   @author:    Baiko Bala
 *
 *   @date:      created: 10-Mar-2016
 *
